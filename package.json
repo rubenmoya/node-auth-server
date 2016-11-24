@@ -1,0 +1,17 @@
+{
+  "name": "node-auth-server",
+  "version": "1.0.0",
+  "description": "Just messing around with authentication in nodejs :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubén Moya <rmoyarodriguez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.0",
+    "morgan": "^1.7.0"
+  }
+}
